@@ -33,3 +33,10 @@ Reason: Changes didn't meaningfully add content to the checklist. The AI also su
 Related GitHub URL: https://github.com/J-Yasin/swe325_525-github-ai-practice/issues/1
 
 
+Reflection questions:
+1. The ability to make checklists in issues and pull requests was particularly useful because it made the workflow and reviewing process easier and more logical.
+2. I took the suggestion of making the README more consice. This was useful because the original README was meaningful, but slightly repetitive.
+3. I rejected the suggestion of modifying the issue checklist. The AI assistant didn't seem to understand the full context of the assignment, so I thought that my original checklist better fit the assignmet goals.
+4. I verified the explanations of git terms by reviewing the notes I took from the lectures. I know that AI takes from many sources, so the definitions might not necessarily match the learning goals of the class. The AI, however, did produce very accurate explanation of concepts.
+5. Next time, I would like to keep a checklist of tasks and subtasks in relevant issues to ensure I'm meeting both the larger goals and the smaller requirements of the project.
+
